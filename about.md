@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: What is EFT
 ---
 
-Brief text about the project ...
+EFT is physics

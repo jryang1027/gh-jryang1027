@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Example
+title: Welcome to Jerry Yang website
 ---
 
-# Example project
+# Research
 
-- [About the project](about)
+- [Effective field theory](about)
 - [Publications](publications)
-- [Team](team)
+- [Current institution](team)
 
 # News
 

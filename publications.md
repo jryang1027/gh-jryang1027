@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+## Alway up to date online
+
+http://inspirehep.net/author/profile/C.J.Yang.1
 
 ## Publications in review
 
